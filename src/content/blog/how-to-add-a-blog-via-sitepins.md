@@ -1,12 +1,18 @@
 ---
 title: how to add a blog via sitepins
-meta_title: ""
-description: ""
+meta_title: "how to add a blog via sitepins | waheedsons engineering"
+description: "example descriptions"
 date: ""
-image: ""
-categories: []
-author: ""
-tags: []
+image: "/images/banner.png"
+categories:
+  - technology
+  - business
+author: "john"
+tags:
+  - tech
+  - business
 draft: false
 ---
+## What is Lorem Ipsum?
 
+**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
