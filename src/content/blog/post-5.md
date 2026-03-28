@@ -7,7 +7,7 @@ image: "/images/back.png"
 categories:
   - Application
   - Business
-author: "Sam wilson"
+author: "Sam-wilson"
 tags:
   - Astro
   - React
